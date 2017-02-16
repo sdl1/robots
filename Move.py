@@ -1,0 +1,28 @@
+class Signals:
+  NONE = 0
+  BLUE = 1
+  RED = 2
+  GREEN = 3
+  ORANGE = 4
+  Name = [ "NONE", "BLUE", "RED", "GREEN", "ORANGE" ]
+  RGB = [ [1,1,1], [0,0,1], [1,0,0], [0,1,0], [1,0.5,0] ]
+  num = len(Name)
+
+RESIGN = -1
+NONE = 0
+SPEED_UP = 1
+SLOW_DOWN = 2
+TURN_RIGHT = 3
+TURN_LEFT = 4
+FIRE_MISSILE = 5
+FIRE_LASER = 6
+
+SIGNAL = 7
+SIGNAL_NONE = SIGNAL + Signals.NONE
+SIGNAL_BLUE = SIGNAL + Signals.BLUE
+SIGNAL_RED = SIGNAL + Signals.RED
+SIGNAL_GREEN = SIGNAL + Signals.GREEN
+SIGNAL_ORANGE = SIGNAL + Signals.ORANGE
+
+
+
