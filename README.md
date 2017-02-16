@@ -15,7 +15,7 @@ Players compete by writing an AI to control robots.
 Each robot is identical and is fitted with two weapons:
 
 * **laser**: this has unlimited ammunition, but has a limited range and will overheat if overused (requiring a cool-down period). Lasers do a small amount of damage.
-* **missile**: this can be fired only once. It has unlimtied range and will travel indefinitely until it hits a robot. A missile hit will destroy a robot.
+* **missile**: this can be fired only once. It has unlimited range and will travel indefinitely until it hits a robot. A missile hit will destroy a robot.
 
 Robots act independently, but may communicate to nearby robots through a system of coloured signals.
 
