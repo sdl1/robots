@@ -2,7 +2,7 @@
 
 AI-controlled teams of robots battle it out on a 2D battlefield. 
 
-<img src="img/robots.png" alt="robots" width="200"/>
+<img src="img/robots.png" alt="robots" width="800"/>
 
 ## Overview
 
